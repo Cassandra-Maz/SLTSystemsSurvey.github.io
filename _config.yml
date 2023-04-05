@@ -2,8 +2,8 @@
 title: Sign Language Translation Survey Project
 email: cassam5@uw.edu
 description: > ["Welcome to the homepage for my ongoing project about Sign Language Translation (SLT) systems. I'm currently gathering the opinions of people from Deaf and/or signing communities about sign language translation technology."] # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/SLTSystemsSurvey/" # the subpath of your site, e.g. /blog/
+url: "https://cassandra-maz.github.io/SLTSystemsSurvey.github.io/" # the base hostname & protocol for your site
 
 github_username: Cassandra-Maz
 
