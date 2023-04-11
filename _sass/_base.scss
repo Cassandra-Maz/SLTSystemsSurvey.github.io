@@ -169,8 +169,9 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
-                -webkit-text-stroke-width: 1px;
-                -webkit-text-stoke-color: $theme-secondary;
+                -webkit-text-stroke-width: 0.75px;
+                -webkit-text-stoke-color: black;
+                color: #b7a57a;
             }
             hr {
                 margin: 30px auto;
