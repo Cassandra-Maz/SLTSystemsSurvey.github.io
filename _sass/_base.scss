@@ -184,6 +184,12 @@ header {
             }
         }
     }
+    .header-content-inner{
+        background-color: white;
+        background-color: rgba(255, 255,255,0.7);
+        padding: 10px 10px 20px;
+        border: 4px solid #4b2e83;
+    }
     @media (min-width: 768px) {
         min-height: 100%;
         .header-content {
