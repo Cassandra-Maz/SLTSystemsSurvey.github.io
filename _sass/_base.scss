@@ -169,7 +169,8 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
-                color: $theme-secondary;
+                -webkit-text-stroke-width: 1px;
+                -webkit-text-stoke-color: $theme-secondary;
             }
             hr {
                 margin: 30px auto;
