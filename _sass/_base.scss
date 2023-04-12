@@ -71,6 +71,9 @@ aside {
 .emphasized {
     font-style: italic;
     font-weight: bold;
+    .extra-emph {
+        color: $theme-secondary;
+    }
 }
 
 // Navigation
