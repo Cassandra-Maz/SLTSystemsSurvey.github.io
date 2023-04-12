@@ -110,8 +110,8 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: rgba(white, .5);
-        border-color: rgba(white, .5);
+        background-color: rgba(white, .75);
+        border-color: rgba(white, .75);
         .navbar-header .navbar-brand {
             color: rgba(51,0,111, .7);
             &:hover,
@@ -178,7 +178,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(black, .7);
+                color: rgba(black, .75);
                 font-size: 16px;
                 margin-bottom: 20px;
                 -webkit-text-stroke-width: 0px;
@@ -187,7 +187,7 @@ header {
     }
     .header-content-inner{
         background-color: white;
-        background-color: rgba(255, 255,255,0.7);
+        background-color: rgba(255, 255,255,0.75);
         padding: 10px 10px 20px;
         border: 4px solid #4b2e83;
         margin-top: 40px;
